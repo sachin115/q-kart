@@ -1,0 +1,18 @@
+.header {
+    height: 10vh;
+    background-color: #f7f0f0;
+}
+
+
+button.btn.btn-primary {
+    margin: 2vh 0 0 5vh;
+    float: right;
+}
+
+button.qkart.btn {
+    margin: 2vh 0 0 5vh;
+    font-size: large;
+}
+
+
+

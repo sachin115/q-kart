@@ -1,0 +1,25 @@
+form.card {
+    position: fixed;
+    width: 30%;
+    height: 50vh;
+    margin-left: 60vh;
+    background-color: #0a0a0a;
+}
+
+.form-group {
+    width: 50%;
+    margin: 1vh 0 0 15vh;
+}
+
+button.btn.btn-dark {
+    width: 22%;
+    margin: 2vh 0 0 22vh;
+    background-color: white;
+    color: #080808;
+}
+
+h2 {
+    margin: 0 0 0 3vh;
+    color: rgb(252, 248, 248);
+}
+
